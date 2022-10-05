@@ -1,0 +1,7 @@
+print("Das ist ein dummer Testtext!")
+print("Das")
+print("ist")
+print("auch")
+print("ein")
+print("dummer")
+print("Testtext!")
