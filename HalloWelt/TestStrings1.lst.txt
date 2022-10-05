@@ -1,0 +1,7 @@
+" - Hallo dies ist ein Test des Sanitizers() der <xml> und ggf auch 'sql SELECT FROM * WHERE X='Y' - erfasst werden!' "
+' <html> ist eine tolle Sprache</html> '
+"Hacker schleusen auch gerne Code ein! test()"
+" ebenso kommen gerne leerzeichen am Anfang von Eingaben vor!"
+"Oder am Ende von Eingaben "
+"Hier folgt ein Codeabschnitt : \nif true:\n    print("wahr")\nelse:\n    print("falsch)\n"
+"<dieser String ist nun sanitized>"
