@@ -28,7 +28,7 @@ sonderzeichen = "%$§\"\`\'#/:;-"
 leerzeichen = " \t"
 zeilenumbruch = "\n\n\r"
 klammern = "<>[]{}()"
-
+#/Basisdefinition von Werten und Strings
 ############################################################################
 # Ausgabe vorbereiten
 print(columns2 + "\n" + columns + "\n" + rulerbar)
